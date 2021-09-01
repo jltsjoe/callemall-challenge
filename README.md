@@ -12,8 +12,8 @@ To execute the project:
     
 4.- Start the project
 
-5.- End point to test Challenge 1: http://localhost:61210/api/students/GetGPA
+5.- End point to test Challenge 1: http://localhost:61210/api/students/GetGPA (or the server where the projectis deployed)
 
 6.- End point to test Challenge 2: http://localhost:61210/api/students/MaxDistance/gbcjbdha (or other string), created as a http GET for accesibility and testability
 
-I tried to keep it the solution as simple as possible. This can be adapted to follow the existing coding standards in Text-Em-All.
+I tried to keep the solution as simple as possible. This can be adapted to follow the existing coding standards in Text-Em-All.
